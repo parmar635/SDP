@@ -1,0 +1,4 @@
+Implement a food ordering system for a multi-cuisine restaurant that serves Indian and Chinese cuisine. Each cuisine has different types of dishes: main course, appetizers, and desserts. Use the Abstract Factory Pattern to create families of related food items while maintaining consistency within each cuisine.
+--
+
+implement any two methods in a concrete class related to problem definition
